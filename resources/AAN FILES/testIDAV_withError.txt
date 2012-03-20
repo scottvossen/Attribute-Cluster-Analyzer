@@ -1,0 +1,8 @@
+Attr1	Attr2	Attr3	Attr4	Attr5
+C	C	R	R	C
+I	I	I	I	O
+30-40k	M	ERROR	10	NO
+20-30k	F	2	8	YES
+40-50k	F	3	6	NO
+30-40k	F	4	5	NO
+40-50k	M	5	4	YES

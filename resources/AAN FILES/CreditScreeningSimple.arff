@@ -1,0 +1,10 @@
+@relation CreditScreening 
+@attribute one { a,b,?}
+@attribute two Numeric
+@attribute three Numeric
+@attribute class { + , - }
+
+@data 
+a,24.08,0.5,+
+b,?,0.625,-
+?,40.83,3.5,-

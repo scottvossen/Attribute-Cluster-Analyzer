@@ -1,0 +1,167 @@
+<AanOutputFile date="2012/02/12 11:57:00">
+	<NumOfClasses>2</NumOfClasses>
+	<CatAttrDomainSummary>
+		<CatAttributeSummary attrName="#colored vessels">
+			<CatAttrDomainStats catAttrValue="0" freq="179" predictability="0.59"/>
+			<CatAttrDomainStats catAttrValue="1" freq="66" predictability="0.22"/>
+			<CatAttrDomainStats catAttrValue="2" freq="38" predictability="0.13"/>
+			<CatAttrDomainStats catAttrValue="3" freq="20" predictability="0.07"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="Fasting blood sugar <120">
+			<CatAttrDomainStats catAttrValue="FALSE" freq="258" predictability="0.85"/>
+			<CatAttrDomainStats catAttrValue="TRUE" freq="45" predictability="0.15"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="angina">
+			<CatAttrDomainStats catAttrValue="FALSE" freq="204" predictability="0.67"/>
+			<CatAttrDomainStats catAttrValue="TRUE" freq="99" predictability="0.33"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="chest pain type">
+			<CatAttrDomainStats catAttrValue=" Asymptomatic" freq="143" predictability="0.47"/>
+			<CatAttrDomainStats catAttrValue="Abnormal Angina" freq="50" predictability="0.17"/>
+			<CatAttrDomainStats catAttrValue="Angina" freq="23" predictability="0.08"/>
+			<CatAttrDomainStats catAttrValue="NoTang" freq="87" predictability="0.29"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="resting ecg">
+			<CatAttrDomainStats catAttrValue="Abnormal" freq="4" predictability="0.01"/>
+			<CatAttrDomainStats catAttrValue="Hyp" freq="147" predictability="0.49"/>
+			<CatAttrDomainStats catAttrValue="Normal" freq="152" predictability="0.5"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="sex">
+			<CatAttrDomainStats catAttrValue="Female" freq="96" predictability="0.32"/>
+			<CatAttrDomainStats catAttrValue="Male" freq="207" predictability="0.68"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="slope">
+			<CatAttrDomainStats catAttrValue="Down" freq="21" predictability="0.07"/>
+			<CatAttrDomainStats catAttrValue="Flat" freq="140" predictability="0.46"/>
+			<CatAttrDomainStats catAttrValue="Up" freq="142" predictability="0.47"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="thal">
+			<CatAttrDomainStats catAttrValue="Fix" freq="18" predictability="0.06"/>
+			<CatAttrDomainStats catAttrValue="Normal" freq="167" predictability="0.55"/>
+			<CatAttrDomainStats catAttrValue="Rev" freq="118" predictability="0.39"/>
+		</CatAttributeSummary>
+	</CatAttrDomainSummary>
+	<RealAttrDomainSummary>
+		<RealAttributeSummary attrName="age">
+			<RealAttrDomainStats avg="54.37" stdDev="9.08" attrSig="0.45"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="blood pressure">
+			<RealAttrDomainStats avg="131.62" stdDev="17.54" attrSig="0.29"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="cholesterol">
+			<RealAttrDomainStats avg="246.26" stdDev="51.83" attrSig="0.17"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="maximum heart rate">
+			<RealAttrDomainStats avg="149.65" stdDev="22.91" attrSig="0.85"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="peak">
+			<RealAttrDomainStats avg="1.04" stdDev="1.16" attrSig="0.87"/>
+		</RealAttributeSummary>
+	</RealAttrDomainSummary>
+	<ClassDepRealAttrSummary>
+		<ClassDepRealAttr attrName="age">
+			<ClasDepRealAttrStats assocClassValue="Healthy" avg="52.5" stdDev="9.55"/>
+			<ClasDepRealAttrStats assocClassValue="Sick" avg="56.6" stdDev="7.96"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="blood pressure">
+			<ClasDepRealAttrStats assocClassValue="Healthy" avg="129.3" stdDev="16.17"/>
+			<ClasDepRealAttrStats assocClassValue="Sick" avg="134.4" stdDev="18.73"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="cholesterol">
+			<ClasDepRealAttrStats assocClassValue="Healthy" avg="242.23" stdDev="53.55"/>
+			<ClasDepRealAttrStats assocClassValue="Sick" avg="251.09" stdDev="49.45"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="maximum heart rate">
+			<ClasDepRealAttrStats assocClassValue="Healthy" avg="158.47" stdDev="19.17"/>
+			<ClasDepRealAttrStats assocClassValue="Sick" avg="139.1" stdDev="22.6"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="peak">
+			<ClasDepRealAttrStats assocClassValue="Healthy" avg="0.58" stdDev="0.78"/>
+			<ClasDepRealAttrStats assocClassValue="Sick" avg="1.59" stdDev="1.3"/>
+		</ClassDepRealAttr>
+	</ClassDepRealAttrSummary>
+	<ClassDepCatAttrStatsSummary>
+		<ClassDepCatAttrSummary classValue="Healthy" numInstances=/165">
+			<ClassDepCatAttr attrName="#colored vessels"/>
+				<ClassDepCatAttrStats catAttrVal="0" freq="134" predictability="0.59" predictiveness="0.75"/>
+				<ClassDepCatAttrStats catAttrVal="1" freq="21" predictability="0.22" predictiveness="0.32"/>
+				<ClassDepCatAttrStats catAttrVal="2" freq="7" predictability="0.13" predictiveness="0.18"/>
+				<ClassDepCatAttrStats catAttrVal="3" freq="3" predictability="0.07" predictiveness="0.15"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="Fasting blood sugar <120"/>
+				<ClassDepCatAttrStats catAttrVal="FALSE" freq="142" predictability="0.85" predictiveness="0.55"/>
+				<ClassDepCatAttrStats catAttrVal="TRUE" freq="23" predictability="0.15" predictiveness="0.51"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="angina"/>
+				<ClassDepCatAttrStats catAttrVal="FALSE" freq="142" predictability="0.67" predictiveness="0.7"/>
+				<ClassDepCatAttrStats catAttrVal="TRUE" freq="23" predictability="0.33" predictiveness="0.23"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="chest pain type"/>
+				<ClassDepCatAttrStats catAttrVal=" Asymptomatic" freq="39" predictability="0.47" predictiveness="0.27"/>
+				<ClassDepCatAttrStats catAttrVal="Abnormal Angina" freq="41" predictability="0.17" predictiveness="0.82"/>
+				<ClassDepCatAttrStats catAttrVal="Angina" freq="16" predictability="0.08" predictiveness="0.7"/>
+				<ClassDepCatAttrStats catAttrVal="NoTang" freq="69" predictability="0.29" predictiveness="0.79"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="resting ecg"/>
+				<ClassDepCatAttrStats catAttrVal="Abnormal" freq="1" predictability="0.01" predictiveness="0.25"/>
+				<ClassDepCatAttrStats catAttrVal="Hyp" freq="68" predictability="0.49" predictiveness="0.46"/>
+				<ClassDepCatAttrStats catAttrVal="Normal" freq="96" predictability="0.5" predictiveness="0.63"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="sex"/>
+				<ClassDepCatAttrStats catAttrVal="Female" freq="72" predictability="0.32" predictiveness="0.75"/>
+				<ClassDepCatAttrStats catAttrVal="Male" freq="93" predictability="0.68" predictiveness="0.45"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="slope"/>
+				<ClassDepCatAttrStats catAttrVal="Down" freq="9" predictability="0.07" predictiveness="0.43"/>
+				<ClassDepCatAttrStats catAttrVal="Flat" freq="49" predictability="0.46" predictiveness="0.35"/>
+				<ClassDepCatAttrStats catAttrVal="Up" freq="107" predictability="0.47" predictiveness="0.75"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="thal"/>
+				<ClassDepCatAttrStats catAttrVal="Fix" freq="6" predictability="0.06" predictiveness="0.33"/>
+				<ClassDepCatAttrStats catAttrVal="Normal" freq="131" predictability="0.55" predictiveness="0.78"/>
+				<ClassDepCatAttrStats catAttrVal="Rev" freq="28" predictability="0.39" predictiveness="0.24"/>
+			</ClassDepCatAttr>
+		</ClassDepCatAttrSummary>
+		<ClassDepCatAttrSummary classValue="Sick" numInstances=/138">
+			<ClassDepCatAttr attrName="#colored vessels"/>
+				<ClassDepCatAttrStats catAttrVal="0" freq="45" predictability="0.59" predictiveness="0.25"/>
+				<ClassDepCatAttrStats catAttrVal="1" freq="45" predictability="0.22" predictiveness="0.68"/>
+				<ClassDepCatAttrStats catAttrVal="2" freq="31" predictability="0.13" predictiveness="0.82"/>
+				<ClassDepCatAttrStats catAttrVal="3" freq="17" predictability="0.07" predictiveness="0.85"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="Fasting blood sugar <120"/>
+				<ClassDepCatAttrStats catAttrVal="FALSE" freq="116" predictability="0.85" predictiveness="0.45"/>
+				<ClassDepCatAttrStats catAttrVal="TRUE" freq="22" predictability="0.15" predictiveness="0.49"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="angina"/>
+				<ClassDepCatAttrStats catAttrVal="FALSE" freq="62" predictability="0.67" predictiveness="0.3"/>
+				<ClassDepCatAttrStats catAttrVal="TRUE" freq="76" predictability="0.33" predictiveness="0.77"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="chest pain type"/>
+				<ClassDepCatAttrStats catAttrVal=" Asymptomatic" freq="104" predictability="0.47" predictiveness="0.73"/>
+				<ClassDepCatAttrStats catAttrVal="Abnormal Angina" freq="9" predictability="0.17" predictiveness="0.18"/>
+				<ClassDepCatAttrStats catAttrVal="Angina" freq="7" predictability="0.08" predictiveness="0.3"/>
+				<ClassDepCatAttrStats catAttrVal="NoTang" freq="18" predictability="0.29" predictiveness="0.21"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="resting ecg"/>
+				<ClassDepCatAttrStats catAttrVal="Abnormal" freq="3" predictability="0.01" predictiveness="0.75"/>
+				<ClassDepCatAttrStats catAttrVal="Hyp" freq="79" predictability="0.49" predictiveness="0.54"/>
+				<ClassDepCatAttrStats catAttrVal="Normal" freq="56" predictability="0.5" predictiveness="0.37"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="sex"/>
+				<ClassDepCatAttrStats catAttrVal="Female" freq="24" predictability="0.32" predictiveness="0.25"/>
+				<ClassDepCatAttrStats catAttrVal="Male" freq="114" predictability="0.68" predictiveness="0.55"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="slope"/>
+				<ClassDepCatAttrStats catAttrVal="Down" freq="12" predictability="0.07" predictiveness="0.57"/>
+				<ClassDepCatAttrStats catAttrVal="Flat" freq="91" predictability="0.46" predictiveness="0.65"/>
+				<ClassDepCatAttrStats catAttrVal="Up" freq="35" predictability="0.47" predictiveness="0.25"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="thal"/>
+				<ClassDepCatAttrStats catAttrVal="Fix" freq="12" predictability="0.06" predictiveness="0.67"/>
+				<ClassDepCatAttrStats catAttrVal="Normal" freq="36" predictability="0.55" predictiveness="0.22"/>
+				<ClassDepCatAttrStats catAttrVal="Rev" freq="90" predictability="0.39" predictiveness="0.76"/>
+			</ClassDepCatAttr>
+		</ClassDepCatAttrSummary>
+	</ClassDepCatAttrStatsSummary>
+</AanOutputFile>

@@ -1,0 +1,56 @@
+<AanOutputFile date="2012/02/12 11:01:54">
+	<NumOfClasses>2</NumOfClasses>
+	<CatAttrDomainSummary>
+		<CatAttributeSummary attrName="Attr1">
+			<CatAttrDomainStats catAttrValue="20-30k" freq="1" predictability="0.2"/>
+			<CatAttrDomainStats catAttrValue="30-40k" freq="2" predictability="0.4"/>
+			<CatAttrDomainStats catAttrValue="40-50k" freq="2" predictability="0.4"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="Attr2">
+			<CatAttrDomainStats catAttrValue="F" freq="3" predictability="0.6"/>
+			<CatAttrDomainStats catAttrValue="M" freq="2" predictability="0.4"/>
+		</CatAttributeSummary>
+	</CatAttrDomainSummary>
+	<RealAttrDomainSummary>
+		<RealAttributeSummary attrName="Attr3">
+			<RealAttrDomainStats avg="3.0" stdDev="1.58" attrSig="0.53"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="Attr4">
+			<RealAttrDomainStats avg="6.6" stdDev="2.41" attrSig="0.41"/>
+		</RealAttributeSummary>
+	</RealAttrDomainSummary>
+	<ClassDepRealAttrSummary>
+		<ClassDepRealAttr attrName="Attr3">
+			<ClasDepRealAttrStats assocClassValue="NO" avg="2.67" stdDev="1.53"/>
+			<ClasDepRealAttrStats assocClassValue="YES" avg="3.5" stdDev="2.12"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="Attr4">
+			<ClasDepRealAttrStats assocClassValue="NO" avg="7.0" stdDev="2.65"/>
+			<ClasDepRealAttrStats assocClassValue="YES" avg="6.0" stdDev="2.83"/>
+		</ClassDepRealAttr>
+	</ClassDepRealAttrSummary>
+	<ClassDepCatAttrStatsSummary>
+		<ClassDepCatAttrSummary classValue="NO" numInstances=/3">
+			<ClassDepCatAttr attrName="Attr1"/>
+				<ClassDepCatAttrStats catAttrVal="20-30k" freq="0" predictability="0.2" predictiveness="0.0"/>
+				<ClassDepCatAttrStats catAttrVal="30-40k" freq="2" predictability="0.4" predictiveness="1.0"/>
+				<ClassDepCatAttrStats catAttrVal="40-50k" freq="1" predictability="0.4" predictiveness="0.5"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="Attr2"/>
+				<ClassDepCatAttrStats catAttrVal="F" freq="2" predictability="0.6" predictiveness="0.67"/>
+				<ClassDepCatAttrStats catAttrVal="M" freq="1" predictability="0.4" predictiveness="0.5"/>
+			</ClassDepCatAttr>
+		</ClassDepCatAttrSummary>
+		<ClassDepCatAttrSummary classValue="YES" numInstances=/2">
+			<ClassDepCatAttr attrName="Attr1"/>
+				<ClassDepCatAttrStats catAttrVal="20-30k" freq="1" predictability="0.2" predictiveness="1.0"/>
+				<ClassDepCatAttrStats catAttrVal="30-40k" freq="0" predictability="0.4" predictiveness="0.0"/>
+				<ClassDepCatAttrStats catAttrVal="40-50k" freq="1" predictability="0.4" predictiveness="0.5"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="Attr2"/>
+				<ClassDepCatAttrStats catAttrVal="F" freq="1" predictability="0.6" predictiveness="0.33"/>
+				<ClassDepCatAttrStats catAttrVal="M" freq="1" predictability="0.4" predictiveness="0.5"/>
+			</ClassDepCatAttr>
+		</ClassDepCatAttrSummary>
+	</ClassDepCatAttrStatsSummary>
+</AanOutputFile>

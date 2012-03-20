@@ -1,0 +1,6 @@
+one	two	three	class
+C	R	R	C
+I	I	I	O
+a	24.08	0.5	+
+b		0.625	-
+	40.83	3.5	-

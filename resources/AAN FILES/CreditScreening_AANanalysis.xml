@@ -1,0 +1,231 @@
+<AanOutputFile date="2012/02/13 21:26:04">
+	<NumOfClasses>2</NumOfClasses>
+	<CatAttrDomainSummary>
+		<CatAttributeSummary attrName="five">
+			<CatAttrDomainStats catAttrValue="g" freq="519" predictability="0.76"/>
+			<CatAttrDomainStats catAttrValue="gg" freq="2" predictability="0.0"/>
+			<CatAttrDomainStats catAttrValue="p" freq="163" predictability="0.24"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="four">
+			<CatAttrDomainStats catAttrValue="l" freq="2" predictability="0.0"/>
+			<CatAttrDomainStats catAttrValue="u" freq="519" predictability="0.76"/>
+			<CatAttrDomainStats catAttrValue="y" freq="163" predictability="0.24"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="nine">
+			<CatAttrDomainStats catAttrValue="f" freq="329" predictability="0.48"/>
+			<CatAttrDomainStats catAttrValue="t" freq="361" predictability="0.52"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="one">
+			<CatAttrDomainStats catAttrValue="a" freq="210" predictability="0.31"/>
+			<CatAttrDomainStats catAttrValue="b" freq="468" predictability="0.69"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="seven">
+			<CatAttrDomainStats catAttrValue="bb" freq="59" predictability="0.09"/>
+			<CatAttrDomainStats catAttrValue="dd" freq="6" predictability="0.01"/>
+			<CatAttrDomainStats catAttrValue="ff" freq="57" predictability="0.08"/>
+			<CatAttrDomainStats catAttrValue="h" freq="138" predictability="0.2"/>
+			<CatAttrDomainStats catAttrValue="j" freq="8" predictability="0.01"/>
+			<CatAttrDomainStats catAttrValue="n" freq="4" predictability="0.01"/>
+			<CatAttrDomainStats catAttrValue="o" freq="2" predictability="0.0"/>
+			<CatAttrDomainStats catAttrValue="v" freq="399" predictability="0.59"/>
+			<CatAttrDomainStats catAttrValue="z" freq="8" predictability="0.01"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="six">
+			<CatAttrDomainStats catAttrValue="aa" freq="54" predictability="0.08"/>
+			<CatAttrDomainStats catAttrValue="c" freq="137" predictability="0.2"/>
+			<CatAttrDomainStats catAttrValue="cc" freq="41" predictability="0.06"/>
+			<CatAttrDomainStats catAttrValue="d" freq="30" predictability="0.04"/>
+			<CatAttrDomainStats catAttrValue="e" freq="25" predictability="0.04"/>
+			<CatAttrDomainStats catAttrValue="ff" freq="53" predictability="0.08"/>
+			<CatAttrDomainStats catAttrValue="i" freq="59" predictability="0.09"/>
+			<CatAttrDomainStats catAttrValue="j" freq="10" predictability="0.01"/>
+			<CatAttrDomainStats catAttrValue="k" freq="51" predictability="0.07"/>
+			<CatAttrDomainStats catAttrValue="m" freq="38" predictability="0.06"/>
+			<CatAttrDomainStats catAttrValue="q" freq="78" predictability="0.11"/>
+			<CatAttrDomainStats catAttrValue="r" freq="3" predictability="0.0"/>
+			<CatAttrDomainStats catAttrValue="w" freq="64" predictability="0.09"/>
+			<CatAttrDomainStats catAttrValue="x" freq="38" predictability="0.06"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="ten">
+			<CatAttrDomainStats catAttrValue="f" freq="395" predictability="0.57"/>
+			<CatAttrDomainStats catAttrValue="t" freq="295" predictability="0.43"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="thirteen">
+			<CatAttrDomainStats catAttrValue="g" freq="625" predictability="0.91"/>
+			<CatAttrDomainStats catAttrValue="p" freq="8" predictability="0.01"/>
+			<CatAttrDomainStats catAttrValue="s" freq="57" predictability="0.08"/>
+		</CatAttributeSummary>
+		<CatAttributeSummary attrName="twelve">
+			<CatAttrDomainStats catAttrValue="f" freq="374" predictability="0.54"/>
+			<CatAttrDomainStats catAttrValue="t" freq="316" predictability="0.46"/>
+		</CatAttributeSummary>
+	</CatAttrDomainSummary>
+	<RealAttrDomainSummary>
+		<RealAttributeSummary attrName="eight">
+			<RealAttrDomainStats avg="2.22" stdDev="3.35" attrSig="0.65"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="eleven">
+			<RealAttrDomainStats avg="2.4" stdDev="4.86" attrSig="0.82"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="fifteen">
+			<RealAttrDomainStats avg="1017.39" stdDev="5210.1" attrSig="0.35"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="fourteen">
+			<RealAttrDomainStats avg="184.01" stdDev="173.81" attrSig="0.2"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="three">
+			<RealAttrDomainStats avg="4.76" stdDev="4.98" attrSig="0.41"/>
+		</RealAttributeSummary>
+		<RealAttributeSummary attrName="two">
+			<RealAttrDomainStats avg="31.57" stdDev="11.96" attrSig="0.33"/>
+		</RealAttributeSummary>
+	</RealAttrDomainSummary>
+	<ClassDepRealAttrSummary>
+		<ClassDepRealAttr attrName="eight">
+			<ClasDepRealAttrStats assocClassValue="+" avg="3.43" stdDev="4.12"/>
+			<ClasDepRealAttrStats assocClassValue="-" avg="1.26" stdDev="2.12"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="eleven">
+			<ClasDepRealAttrStats assocClassValue="+" avg="4.61" stdDev="6.32"/>
+			<ClasDepRealAttrStats assocClassValue="-" avg="0.63" stdDev="1.9"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="fifteen">
+			<ClasDepRealAttrStats assocClassValue="+" avg="2038.86" stdDev="7659.76"/>
+			<ClasDepRealAttrStats assocClassValue="-" avg="198.61" stdDev="671.61"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="fourteen">
+			<ClasDepRealAttrStats assocClassValue="+" avg="164.42" stdDev="161.77"/>
+			<ClasDepRealAttrStats assocClassValue="-" avg="199.7" stdDev="181.56"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="three">
+			<ClasDepRealAttrStats assocClassValue="+" avg="5.9" stdDev="5.47"/>
+			<ClasDepRealAttrStats assocClassValue="-" avg="3.84" stdDev="4.34"/>
+		</ClassDepRealAttr>
+		<ClassDepRealAttr attrName="two">
+			<ClasDepRealAttrStats assocClassValue="+" avg="33.72" stdDev="12.81"/>
+			<ClasDepRealAttrStats assocClassValue="-" avg="29.81" stdDev="10.92"/>
+		</ClassDepRealAttr>
+	</ClassDepRealAttrSummary>
+	<ClassDepCatAttrStatsSummary>
+		<ClassDepCatAttrSummary classValue="+" numInstances=/307">
+			<ClassDepCatAttr attrName="five"/>
+				<ClassDepCatAttrStats catAttrVal="g" freq="256" predictability="0.76" predictiveness="0.49"/>
+				<ClassDepCatAttrStats catAttrVal="gg" freq="2" predictability="0.0" predictiveness="1.0"/>
+				<ClassDepCatAttrStats catAttrVal="p" freq="45" predictability="0.24" predictiveness="0.28"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="four"/>
+				<ClassDepCatAttrStats catAttrVal="l" freq="2" predictability="0.0" predictiveness="1.0"/>
+				<ClassDepCatAttrStats catAttrVal="u" freq="256" predictability="0.76" predictiveness="0.49"/>
+				<ClassDepCatAttrStats catAttrVal="y" freq="45" predictability="0.24" predictiveness="0.28"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="nine"/>
+				<ClassDepCatAttrStats catAttrVal="f" freq="23" predictability="0.48" predictiveness="0.07"/>
+				<ClassDepCatAttrStats catAttrVal="t" freq="284" predictability="0.52" predictiveness="0.79"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="one"/>
+				<ClassDepCatAttrStats catAttrVal="a" freq="98" predictability="0.31" predictiveness="0.47"/>
+				<ClassDepCatAttrStats catAttrVal="b" freq="206" predictability="0.69" predictiveness="0.44"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="seven"/>
+				<ClassDepCatAttrStats catAttrVal="bb" freq="25" predictability="0.09" predictiveness="0.42"/>
+				<ClassDepCatAttrStats catAttrVal="dd" freq="2" predictability="0.01" predictiveness="0.33"/>
+				<ClassDepCatAttrStats catAttrVal="ff" freq="8" predictability="0.08" predictiveness="0.14"/>
+				<ClassDepCatAttrStats catAttrVal="h" freq="87" predictability="0.2" predictiveness="0.63"/>
+				<ClassDepCatAttrStats catAttrVal="j" freq="3" predictability="0.01" predictiveness="0.38"/>
+				<ClassDepCatAttrStats catAttrVal="n" freq="2" predictability="0.01" predictiveness="0.5"/>
+				<ClassDepCatAttrStats catAttrVal="o" freq="1" predictability="0.0" predictiveness="0.5"/>
+				<ClassDepCatAttrStats catAttrVal="v" freq="169" predictability="0.59" predictiveness="0.42"/>
+				<ClassDepCatAttrStats catAttrVal="z" freq="6" predictability="0.01" predictiveness="0.75"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="six"/>
+				<ClassDepCatAttrStats catAttrVal="aa" freq="19" predictability="0.08" predictiveness="0.35"/>
+				<ClassDepCatAttrStats catAttrVal="c" freq="62" predictability="0.2" predictiveness="0.45"/>
+				<ClassDepCatAttrStats catAttrVal="cc" freq="29" predictability="0.06" predictiveness="0.71"/>
+				<ClassDepCatAttrStats catAttrVal="d" freq="7" predictability="0.04" predictiveness="0.23"/>
+				<ClassDepCatAttrStats catAttrVal="e" freq="14" predictability="0.04" predictiveness="0.56"/>
+				<ClassDepCatAttrStats catAttrVal="ff" freq="7" predictability="0.08" predictiveness="0.13"/>
+				<ClassDepCatAttrStats catAttrVal="i" freq="14" predictability="0.09" predictiveness="0.24"/>
+				<ClassDepCatAttrStats catAttrVal="j" freq="3" predictability="0.01" predictiveness="0.3"/>
+				<ClassDepCatAttrStats catAttrVal="k" freq="14" predictability="0.07" predictiveness="0.27"/>
+				<ClassDepCatAttrStats catAttrVal="m" freq="16" predictability="0.06" predictiveness="0.42"/>
+				<ClassDepCatAttrStats catAttrVal="q" freq="51" predictability="0.11" predictiveness="0.65"/>
+				<ClassDepCatAttrStats catAttrVal="r" freq="2" predictability="0.0" predictiveness="0.67"/>
+				<ClassDepCatAttrStats catAttrVal="w" freq="33" predictability="0.09" predictiveness="0.52"/>
+				<ClassDepCatAttrStats catAttrVal="x" freq="32" predictability="0.06" predictiveness="0.84"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="ten"/>
+				<ClassDepCatAttrStats catAttrVal="f" freq="98" predictability="0.57" predictiveness="0.25"/>
+				<ClassDepCatAttrStats catAttrVal="t" freq="209" predictability="0.43" predictiveness="0.71"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="thirteen"/>
+				<ClassDepCatAttrStats catAttrVal="g" freq="287" predictability="0.91" predictiveness="0.46"/>
+				<ClassDepCatAttrStats catAttrVal="p" freq="5" predictability="0.01" predictiveness="0.63"/>
+				<ClassDepCatAttrStats catAttrVal="s" freq="15" predictability="0.08" predictiveness="0.26"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="twelve"/>
+				<ClassDepCatAttrStats catAttrVal="f" freq="161" predictability="0.54" predictiveness="0.43"/>
+				<ClassDepCatAttrStats catAttrVal="t" freq="146" predictability="0.46" predictiveness="0.46"/>
+			</ClassDepCatAttr>
+		</ClassDepCatAttrSummary>
+		<ClassDepCatAttrSummary classValue="-" numInstances=/383">
+			<ClassDepCatAttr attrName="five"/>
+				<ClassDepCatAttrStats catAttrVal="g" freq="263" predictability="0.76" predictiveness="0.51"/>
+				<ClassDepCatAttrStats catAttrVal="gg" freq="0" predictability="0.0" predictiveness="0.0"/>
+				<ClassDepCatAttrStats catAttrVal="p" freq="118" predictability="0.24" predictiveness="0.72"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="four"/>
+				<ClassDepCatAttrStats catAttrVal="l" freq="0" predictability="0.0" predictiveness="0.0"/>
+				<ClassDepCatAttrStats catAttrVal="u" freq="263" predictability="0.76" predictiveness="0.51"/>
+				<ClassDepCatAttrStats catAttrVal="y" freq="118" predictability="0.24" predictiveness="0.72"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="nine"/>
+				<ClassDepCatAttrStats catAttrVal="f" freq="306" predictability="0.48" predictiveness="0.93"/>
+				<ClassDepCatAttrStats catAttrVal="t" freq="77" predictability="0.52" predictiveness="0.21"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="one"/>
+				<ClassDepCatAttrStats catAttrVal="a" freq="112" predictability="0.31" predictiveness="0.53"/>
+				<ClassDepCatAttrStats catAttrVal="b" freq="262" predictability="0.69" predictiveness="0.56"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="seven"/>
+				<ClassDepCatAttrStats catAttrVal="bb" freq="34" predictability="0.09" predictiveness="0.58"/>
+				<ClassDepCatAttrStats catAttrVal="dd" freq="4" predictability="0.01" predictiveness="0.67"/>
+				<ClassDepCatAttrStats catAttrVal="ff" freq="49" predictability="0.08" predictiveness="0.86"/>
+				<ClassDepCatAttrStats catAttrVal="h" freq="51" predictability="0.2" predictiveness="0.37"/>
+				<ClassDepCatAttrStats catAttrVal="j" freq="5" predictability="0.01" predictiveness="0.63"/>
+				<ClassDepCatAttrStats catAttrVal="n" freq="2" predictability="0.01" predictiveness="0.5"/>
+				<ClassDepCatAttrStats catAttrVal="o" freq="1" predictability="0.0" predictiveness="0.5"/>
+				<ClassDepCatAttrStats catAttrVal="v" freq="230" predictability="0.59" predictiveness="0.58"/>
+				<ClassDepCatAttrStats catAttrVal="z" freq="2" predictability="0.01" predictiveness="0.25"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="six"/>
+				<ClassDepCatAttrStats catAttrVal="aa" freq="35" predictability="0.08" predictiveness="0.65"/>
+				<ClassDepCatAttrStats catAttrVal="c" freq="75" predictability="0.2" predictiveness="0.55"/>
+				<ClassDepCatAttrStats catAttrVal="cc" freq="12" predictability="0.06" predictiveness="0.29"/>
+				<ClassDepCatAttrStats catAttrVal="d" freq="23" predictability="0.04" predictiveness="0.77"/>
+				<ClassDepCatAttrStats catAttrVal="e" freq="11" predictability="0.04" predictiveness="0.44"/>
+				<ClassDepCatAttrStats catAttrVal="ff" freq="46" predictability="0.08" predictiveness="0.87"/>
+				<ClassDepCatAttrStats catAttrVal="i" freq="45" predictability="0.09" predictiveness="0.76"/>
+				<ClassDepCatAttrStats catAttrVal="j" freq="7" predictability="0.01" predictiveness="0.7"/>
+				<ClassDepCatAttrStats catAttrVal="k" freq="37" predictability="0.07" predictiveness="0.73"/>
+				<ClassDepCatAttrStats catAttrVal="m" freq="22" predictability="0.06" predictiveness="0.58"/>
+				<ClassDepCatAttrStats catAttrVal="q" freq="27" predictability="0.11" predictiveness="0.35"/>
+				<ClassDepCatAttrStats catAttrVal="r" freq="1" predictability="0.0" predictiveness="0.33"/>
+				<ClassDepCatAttrStats catAttrVal="w" freq="31" predictability="0.09" predictiveness="0.48"/>
+				<ClassDepCatAttrStats catAttrVal="x" freq="6" predictability="0.06" predictiveness="0.16"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="ten"/>
+				<ClassDepCatAttrStats catAttrVal="f" freq="297" predictability="0.57" predictiveness="0.75"/>
+				<ClassDepCatAttrStats catAttrVal="t" freq="86" predictability="0.43" predictiveness="0.29"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="thirteen"/>
+				<ClassDepCatAttrStats catAttrVal="g" freq="338" predictability="0.91" predictiveness="0.54"/>
+				<ClassDepCatAttrStats catAttrVal="p" freq="3" predictability="0.01" predictiveness="0.38"/>
+				<ClassDepCatAttrStats catAttrVal="s" freq="42" predictability="0.08" predictiveness="0.74"/>
+			</ClassDepCatAttr>
+			<ClassDepCatAttr attrName="twelve"/>
+				<ClassDepCatAttrStats catAttrVal="f" freq="213" predictability="0.54" predictiveness="0.57"/>
+				<ClassDepCatAttrStats catAttrVal="t" freq="170" predictability="0.46" predictiveness="0.54"/>
+			</ClassDepCatAttr>
+		</ClassDepCatAttrSummary>
+	</ClassDepCatAttrStatsSummary>
+</AanOutputFile>

@@ -1,0 +1,9 @@
+
+The Attribute & Cluster Analyzer (ACZ) is designed to help us 
+determine a best set of attributes for building supervised
+learner models. ACZ is easy to use and offers several insights 
+into the nature of any dataset to be mined.  In addition 
+to its preprocessing capabilities, ACZ can help analyze the 
+quality of the clusters created by BpKNet’s unsupervised 
+clustering algorithm.  Please review the read me document for 
+detailed instructions on how to use ACZ. 
